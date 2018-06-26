@@ -1,0 +1,11 @@
+E:\c#\TestCshap\TestCshap\bin\Debug\netcoreapp2.0\TestCshap.deps.json
+E:\c#\TestCshap\TestCshap\bin\Debug\netcoreapp2.0\TestCshap.runtimeconfig.json
+E:\c#\TestCshap\TestCshap\bin\Debug\netcoreapp2.0\TestCshap.runtimeconfig.dev.json
+E:\c#\TestCshap\TestCshap\bin\Debug\netcoreapp2.0\TestCshap.dll
+E:\c#\TestCshap\TestCshap\bin\Debug\netcoreapp2.0\TestCshap.pdb
+E:\c#\TestCshap\TestCshap\obj\Debug\netcoreapp2.0\TestCshap.csprojAssemblyReference.cache
+E:\c#\TestCshap\TestCshap\obj\Debug\netcoreapp2.0\TestCshap.csproj.CoreCompileInputs.cache
+E:\c#\TestCshap\TestCshap\obj\Debug\netcoreapp2.0\TestCshap.AssemblyInfoInputs.cache
+E:\c#\TestCshap\TestCshap\obj\Debug\netcoreapp2.0\TestCshap.AssemblyInfo.cs
+E:\c#\TestCshap\TestCshap\obj\Debug\netcoreapp2.0\TestCshap.dll
+E:\c#\TestCshap\TestCshap\obj\Debug\netcoreapp2.0\TestCshap.pdb
